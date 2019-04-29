@@ -1,0 +1,43 @@
+
+
+
+VEGGIES FOR LIFE
+-----------------
+
+
+Theme:
+You are a farmer in a dystopian society where your life is time and time is currency. If you run out of time you run out of life.
+You struggle to survive by raising good crops that make you more time. Or you might grow shitty crops and die
+
+Concept:
+- You have some time as money with you
+Every level you get some seeds of which you can choose one to sow.
+Each seed can grow in X amt of time. The quality of growth depends of the weather, seed affinity etc.
+You also have to figure in the amt of time you have left. If you aren't able to sell the crops before you run out of time you die.
+
+A well chosen crop will bring in more "money" while a badly chosen crop will be your end
+
+
+
+Prototype/Minimum Viable Game
+------------------------------
+You open the game
+The weather and soil type is shown in the UI
+You pick one seed and sow it and press okay or something
+The timer proceeds , money is deducted and crops grows
+The crops sells for some amt of money which is added to your balance.
+
+If your balance runs out while seed is growing You die....
+If your balance runs out after the sale as well you die....
+
+Loop repeats.... (New Season)
+
+
+  Game elements:
+  Weather forecast: over period of time (or maybe single point)
+  Soil Type
+  Seeds
+  - Harvest time
+  - Weather
+  - Soil
+  Time Left:
